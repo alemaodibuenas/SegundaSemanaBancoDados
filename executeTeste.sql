@@ -1,0 +1,2 @@
+Execute dbo.PR_ProdutoPorCategoriaMaisSubCategoria 8,54
+go
